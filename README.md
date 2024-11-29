@@ -46,8 +46,8 @@ Pour exécuter ce projet correctement, assurez-vous d'avoir :
 ### 1. Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-utilisateur/votre-repo.git
-cd votre-repo
+git clone https://github.com/Amanda-Safoura/pro-gext.git
+cd pro-gext
 ```
 
 ### 2. Installer les dépendances
