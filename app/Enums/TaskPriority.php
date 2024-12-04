@@ -14,7 +14,7 @@ enum TaskPriority: string
     {
         return match ($this) {
             self::Low => 'Faible',
-            self::Medium => 'En cours',
+            self::Medium => 'Moyenne',
             self::High => 'Forte',
         };
     }
